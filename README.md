@@ -4,4 +4,4 @@
 **But i do recommend [nand2tetris](https://www.nand2tetris.org/) and follow the installion tool**
 
 ### Installation 
-Note**: There is no documentation for installing the program in linux
+Note**: There is no documentation for installing the program in linux, I you have any bug please issue it to me.
